@@ -1,0 +1,10 @@
+com/javatar/virus/autostart/AutoStartManager.class
+com/javatar/virus/VirusApp.class
+com/javatar/virus/AppController$1.class
+com/javatar/virus/keydialog/KeyDialog.class
+com/javatar/virus/autostart/AbstractAutoStartUnit.class
+com/javatar/virus/RandomFrame.class
+com/javatar/virus/AppController.class
+com/javatar/virus/autostart/WinAutoStartUnit.class
+com/javatar/virus/keydialog/KeyDialogWindowListener.class
+com/javatar/virus/autostart/AutoStartUnit.class
